@@ -61,7 +61,7 @@ _Built with Next.js, Firebase, Vapi.ai, and TailwindCSS_
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/kgaurav152/InterviewPrepAI.git
+git clone https://github.com/Shafaqueafrin/InterviewPrepAI.git
 ```
 
 ```bash
@@ -110,4 +110,4 @@ Detailed guides for:
 ---
 
 💡 **Need Help?**  
-Drop me a mail at [kgaurav152@gmail.com](mailto://kgaurav152@gmail.com) or open an [Issue](https://github.com/kgaurav152/InterviewPrepAI/issues).
+Drop me a mail at [afrinshafaque@gmail.com](mailto://afrinshafaque@gmail.com) or open an [Issue](https://github.com/Shafaqueafrin/InterviewPrepAI/issues).
